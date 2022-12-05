@@ -1,0 +1,49 @@
+.header{
+    color:white;
+    margin:0px;
+    
+}
+.container{
+    display: flex;
+    flex-direction:column;
+    
+    flex-wrap:no-wrap;
+   margin:0 auto;
+}
+
+.input1{
+    padding:5px;
+    background-color:#222021;
+    width:350px;
+    text-color:white;
+    border-bottom:1px solid #151616;
+    border-right:1px solid #151616;
+    color:white;
+    
+}
+.input2{
+padding:5px;
+background-color:#222021;
+border-bottom:1px solid #151616;
+border-right:1px solid #151616;
+color:white;
+    
+}
+
+.ingredients,.description{
+    background-color:#222021;
+    width:350px;
+    height:150px;
+    border:1px solid #151616;
+    color:white;
+    
+}
+
+.button{
+    padding:5px;
+    background-color:#A4E041;
+    width:200px;
+    margin: 0 auto;
+    margin-bottom:30px;
+    text-align:center;
+}

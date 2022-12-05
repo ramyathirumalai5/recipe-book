@@ -1,0 +1,8 @@
+.inputBox{
+ padding:8px;
+ margin:0 65px;
+ width:80%;
+ border:1px solid black;
+ border-radius:4px;
+ font-family: fontawesome;
+}
